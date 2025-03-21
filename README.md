@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">I'm  from  B<br><br>- 🔭 Currently, I’m diving deep into Java programming and defensive security practices<br>- 📚 I am looking for my first job opportunity. My dream is to one day work with Cybersecurity.</h4>
+<h4 align="left"><br><br>- 🔭 Currently, I’m diving deep into Java programming and defensive security practices<br>- 📚 I am looking for my first job opportunity. My dream is to one day work with Cybersecurity.</h4>
 
 ###
 
